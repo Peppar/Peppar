@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Peppar
+- 👀 I’m interested in FPGAs
+- 🌱 I’m currently learning how to make plugins for the IntelliJ platform
+- 📫 How to reach me : oskar@holstensson.se
